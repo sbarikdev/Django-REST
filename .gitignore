@@ -1,0 +1,10 @@
+venv/
+env/
+src/
+__pycache__/
+accounts.log
+media/
+media_cdn/
+static/
+migrations/
+.idea/
